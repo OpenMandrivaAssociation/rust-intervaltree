@@ -5,8 +5,8 @@
 %global crate intervaltree
 
 Name:           rust-%{crate}
-Version:        0.2.5
-Release:        2%{?dist}
+Version:        0.2.7
+Release:        1%{?dist}
 Summary:        Simple and generic implementation of an immutable interval tree
 
 # Upstream license specification: MIT
